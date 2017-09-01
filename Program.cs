@@ -9,7 +9,7 @@ namespace 语音控制登录
     static class Program
     {
         /// <summary>
-        /// 应用程序的主入口点。
+        /// 应用程序的主入口点。bylin20170901github
         /// </summary>
         [STAThread]
         static void Main()
