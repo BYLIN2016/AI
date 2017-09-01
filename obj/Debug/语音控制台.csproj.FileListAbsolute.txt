@@ -1,0 +1,10 @@
+C:\Users\linwf\Desktop\AI\GSAI\GSAUTO\语音控制登录\bin\Debug\语音控制登录.exe.config
+C:\Users\linwf\Desktop\AI\GSAI\GSAUTO\语音控制登录\bin\Debug\语音控制登录.exe
+C:\Users\linwf\Desktop\AI\GSAI\GSAUTO\语音控制登录\bin\Debug\语音控制登录.pdb
+C:\Users\linwf\Desktop\AI\GSAI\GSAUTO\语音控制登录\obj\Debug\语音控制台.csprojResolveAssemblyReference.cache
+C:\Users\linwf\Desktop\AI\GSAI\GSAUTO\语音控制登录\obj\Debug\语音控制登录.控制台.resources
+C:\Users\linwf\Desktop\AI\GSAI\GSAUTO\语音控制登录\obj\Debug\语音控制登录.Properties.Resources.resources
+C:\Users\linwf\Desktop\AI\GSAI\GSAUTO\语音控制登录\obj\Debug\语音控制台.csproj.GenerateResource.Cache
+C:\Users\linwf\Desktop\AI\GSAI\GSAUTO\语音控制登录\obj\Debug\语音控制台.csproj.CoreCompileInputs.cache
+C:\Users\linwf\Desktop\AI\GSAI\GSAUTO\语音控制登录\obj\Debug\语音控制登录.exe
+C:\Users\linwf\Desktop\AI\GSAI\GSAUTO\语音控制登录\obj\Debug\语音控制登录.pdb
